@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705737831974",
+    "project_id": "cupcake-store-5a45d",
+    "storage_bucket": "cupcake-store-5a45d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705737831974:android:086ffdd0cc04e988f158e7",
+        "android_client_info": {
+          "package_name": "com.weslei666.cupcakestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVTNiEqeSdNGKLfSigk1Oc1GT_tXoFbRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

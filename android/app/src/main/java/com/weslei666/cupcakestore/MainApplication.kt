@@ -1,4 +1,4 @@
-package com.cupcakestore
+package com.weslei666.cupcakestore
 
 import android.app.Application
 import android.content.res.Configuration
